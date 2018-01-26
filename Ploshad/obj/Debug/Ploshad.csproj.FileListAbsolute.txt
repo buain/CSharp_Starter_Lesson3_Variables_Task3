@@ -1,0 +1,7 @@
+D:\NET\Projects\Lesson3\Task4\Ploshad\Ploshad\bin\Debug\Ploshad.exe.config
+D:\NET\Projects\Lesson3\Task4\Ploshad\Ploshad\bin\Debug\Ploshad.exe
+D:\NET\Projects\Lesson3\Task4\Ploshad\Ploshad\bin\Debug\Ploshad.pdb
+D:\NET\Projects\Lesson3\Task4\Ploshad\Ploshad\obj\Debug\Ploshad.csprojResolveAssemblyReference.cache
+D:\NET\Projects\Lesson3\Task4\Ploshad\Ploshad\obj\Debug\Ploshad.csproj.CoreCompileInputs.cache
+D:\NET\Projects\Lesson3\Task4\Ploshad\Ploshad\obj\Debug\Ploshad.exe
+D:\NET\Projects\Lesson3\Task4\Ploshad\Ploshad\obj\Debug\Ploshad.pdb
